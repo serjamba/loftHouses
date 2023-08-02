@@ -1,4 +1,4 @@
-# [loftHouses](https://serjamba.github.io/loftHouses/)
+# [loftHouses](https://serjamba.github.io/loftHouses/) - посетить сайт.
 
 <p>Что использовалось в проекте:</p>
 <ul>
